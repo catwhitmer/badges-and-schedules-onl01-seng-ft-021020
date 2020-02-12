@@ -27,6 +27,6 @@ def assign_rooms(attendees)
   return room_assignments
 end
 
-def printer()
+def printer(array)
   puts badge_messages and room_assignments
 end

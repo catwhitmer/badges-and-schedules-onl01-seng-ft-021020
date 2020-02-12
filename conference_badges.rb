@@ -11,7 +11,7 @@ def batch_badge_creator(names)
   names.each do |attendees|
     badge_messages.push()
 end
-    return "Hello, my name is #{attendees}."
+    return 
 end
 
 def assign_rooms(list_of_speakers)

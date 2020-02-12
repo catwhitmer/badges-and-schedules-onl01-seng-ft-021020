@@ -6,7 +6,9 @@ end
 
 list_of_speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-def batch_badge_creator(array_of_names)
+def batch_badge_creator(list_of_speakers)
+  list_of_speakers.each do |attendees|
+    puts "Hello, my name is #{list_of_speakers"
   
 end
 

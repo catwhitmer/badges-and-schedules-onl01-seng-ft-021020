@@ -18,11 +18,7 @@ end
 
 
 def assign_rooms(list_of_speakers)
-  name_and_room = []
-  list_of_speakers.each do |names|
-   name_and_room.push.each_with_index("Hello, #names}! You'll be assigned to room !")
-  end
-  return name_and_room
+
 end
 
 #def printer()

@@ -18,8 +18,9 @@ end
 
 
 def assign_rooms(list_of_speakers)
+  name_and_room = []
   list_of_speakers.each do |names|
-    puts "Hello, #names}! You'll be assigned to room !"
+   name_and_room.push("Hello, #names}! You'll be assigned to room !")
   end
 end
 

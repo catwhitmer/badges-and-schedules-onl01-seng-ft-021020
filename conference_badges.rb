@@ -17,7 +17,7 @@ end
 
 
 
-def assign_rooms(list_of_speakers)
+def assign_rooms(attendees)
 
 end
 

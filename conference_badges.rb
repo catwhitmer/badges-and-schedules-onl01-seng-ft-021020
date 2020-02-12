@@ -1,10 +1,10 @@
 # Write your code here.
 
-list_of_speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-
 def badge_maker(name)
   puts "Hello, my name is #{name}."
 end
+
+list_of_speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(array_of_names)
   
